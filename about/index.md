@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Theme
+title: About Ijump
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -10,13 +10,13 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+Agile delivery in partnership with your team with full understanding of the needs of your business and your customers.
 
-## Minimal Mistakes is all about:
+## Ijump is all about:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
+* Optimizing your team, the process and delivering value fast.
+* Making things as simple as they can be.
+* Effective
 * Optional large feature images for posts and pages.
 * Simple and clear permalink structure.
 * [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
