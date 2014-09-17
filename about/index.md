@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Ijump
-tags: [about, Jekyll, theme, responsive]
+tags: [about, ijump]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
@@ -16,10 +16,9 @@ Agile delivery in partnership with your team with full understanding of the need
 
 * Optimizing your team, the process and delivering value fast.
 * Making things as simple as they can be.
-* Effective
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
+* Effective partnership - we appreciate that we cannot solve all your problems, but can learn from each other.
+* Simple and clear reporting.
 * [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+* We know 
 
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
