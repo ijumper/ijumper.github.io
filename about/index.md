@@ -16,7 +16,7 @@ Agile delivery in partnership with your team with full understanding of the need
 
 * Optimizing your team, the process and delivering value fast.
 * Making things as simple as they can be.
-* Effective partnership - we appreciate that we cannot solve all your problems, but can learn from each other.
+* Effective partnership - we appreciate that we cannot solve all your problems, but can solve them better together.
 * Simple and clear reporting.
 * [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
 * We know 
